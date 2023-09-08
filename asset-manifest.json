@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_App/static/css/main.7e2f8136.css",
+    "main.js": "/React_App/static/js/main.2acc1695.js",
+    "static/media/travel.png": "/React_App/static/media/travel.c78b8479bc2945d38986.png",
+    "static/media/kickstart.png": "/React_App/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "static/media/fashion.png": "/React_App/static/media/fashion.352c210ee3b33842edc2.png",
+    "static/media/krypto.png": "/React_App/static/media/krypto.ca0e8bf963cc76cfe26c.png",
+    "static/media/project.jpeg": "/React_App/static/media/project.7063238598429f9a1f79.jpeg",
+    "static/media/home-main.svg": "/React_App/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/React_App/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/resume.pdf": "/React_App/static/media/resume.1c629bf509410c9b5855.pdf",
+    "static/media/lift.png": "/React_App/static/media/lift.37d5e75bcb0994102a34.png",
+    "static/media/converter.png": "/React_App/static/media/converter.81458c1134c6b5fc1247.png",
+    "static/media/home-bg.jpg": "/React_App/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pg.png": "/React_App/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/pre.svg": "/React_App/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/React_App/index.html",
+    "main.7e2f8136.css.map": "/React_App/static/css/main.7e2f8136.css.map",
+    "main.2acc1695.js.map": "/React_App/static/js/main.2acc1695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2f8136.css",
+    "static/js/main.2acc1695.js"
+  ]
+}
