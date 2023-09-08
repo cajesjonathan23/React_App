@@ -40,10 +40,10 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Route path="/React_App" element={<Home />} />
-          <Route path="/skillset" element={<Skill />} />
-          <Route path="/project" element={<Project />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/React_App/skillset" element={<Skill />} />
+          <Route path="/React_App/project" element={<Project />} />
+          <Route path="/React_App/resume" element={<Resume />} />
+          <Route path="/React_App/contact" element={<Contact />} />
           
         </Routes>
         <Footer />
