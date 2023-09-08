@@ -35,7 +35,7 @@ function NavBar() {
       className={navColour ? "fixed" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="/React_App" className="d-flex">
           <h2>My Portfolio</h2>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -59,7 +59,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/skillset"
+                to="/React_App/skillset"
                 onClick={() => updateExpanded(false)}
               >
                 <GiSkills style={{ marginBottom: "2px" }} /> Skillset
@@ -69,7 +69,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/project"
+                to="/React_App/project"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen
@@ -82,7 +82,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/resume"
+                to="/React_App/resume"
                 onClick={() => updateExpanded(false)}
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
@@ -92,7 +92,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/contact"
+                to="/React_App/contact"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineContacts style={{ marginBottom: "2px" }} /> Contact Me
